@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 
 const iconPaths = {
   arrow: <path d="M5 12h13m-6-6 6 6-6 6" />,
@@ -165,6 +166,7 @@ function App() {
           <div className="footer-bottom"><span>© 2026 Nicolas Santos</span><span>Designed &amp; built with curiosity.</span></div>
         </div>
       </footer>
+      <Analytics />
     </div>
   )
 }
