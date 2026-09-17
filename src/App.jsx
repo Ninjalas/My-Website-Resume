@@ -87,7 +87,6 @@ function App() {
           </div>
           <div className="hero-visual reveal reveal-delay" aria-label="Portrait and code visualization">
             <div className="visual-orbit orbit-one" /><div className="visual-orbit orbit-two" />
-            <div className="portrait-card"><img src="https://avatars.githubusercontent.com/u/178625583?v=4" alt="Nicolas Santos" /><span>nicolas.santos<br /><small>building in public</small></span></div>
             <div className="visual-card">
               <div className="window-bar"><span /><span /><span /><small>nicolas.py</small></div>
               <div className="code-lines">
@@ -100,6 +99,9 @@ function App() {
                 <div><b>07</b><span>&nbsp;&nbsp;<mark>ai</mark>, <mark>impact</mark>]</span></div>
               </div>
               <div className="code-cursor" />
+            </div>
+            <div className="portrait-integrated">
+              <img src="/nicolas-santos.png" alt="Nicolas Santos" loading="eager" fetchPriority="high" decoding="sync" />
             </div>
             <div className="visual-label label-top">/ 01 — explore</div>
             <div className="visual-label label-bottom">systems in progress<span>↗</span></div>
