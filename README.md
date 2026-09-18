@@ -61,21 +61,6 @@ A Java-based game project inspired by multiplayer online battle arena games.
 
 Focused on practicing object-oriented programming, game logic, and software design.
 
----
-
-### 🏥 SAGIP (NEXTGEN PH PROPOSAL)
-**Sistema para sa Agarang Gabay, Impormasyon, at Pagresponde**
-
-A public healthcare platform concept designed to make healthcare services easier to find and access.
-
-Features include:
-- Find Care
-- Book Appointment
-- One-Tap Rescue
-- Location-based emergency assistance
-
----
-
 ### 📊 AI Studio Data Analytics
 A data analytics and data mining project using RapidMiner / AI Studio.
 
@@ -159,11 +144,6 @@ I'm strengthening my programming and software engineering fundamentals while lea
 - **Email:** (nicsnicsantos@gmail.com)
 
 ---
-
-## 👾 Boot.dev Profile
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f66a6fcf-f456-4518-a0f4-09f1dfd60eff/thumbnail" >
-</p>
 
 ## 📌 Portfolio
 

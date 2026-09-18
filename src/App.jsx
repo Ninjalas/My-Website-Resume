@@ -17,10 +17,9 @@ function Icon({ name, size = 18 }) {
 
 const projects = [
   { number: '01', title: 'Arcane Area', type: 'Java / Maven game', description: 'A Java-based game project focused on applying object-oriented programming and software structure.', tags: ['Java', 'Maven'], tone: 'purple' },
-  { number: '02', title: 'SAGIP', type: 'Public healthcare platform concept', description: 'A concept for a more accessible public healthcare experience, shaped around community needs and practical digital tools.', tags: ['Product concept', 'Research'], tone: 'orange' },
-  { number: '03', title: 'AI Studio Data Analytics', type: 'Data mining / analysis', description: 'Hands-on exploration of data preparation, analysis, and pattern discovery using AI Studio.', tags: ['AI Studio', 'Data mining'], tone: 'blue' },
-  { number: '04', title: 'Campus Social App', type: 'Mobile application', description: 'A Flutter and Dart concept designed to help students connect, share, and participate in campus life.', tags: ['Flutter', 'Dart'], tone: 'green' },
-  { number: '05', title: 'School Website', type: 'Web development', description: 'A structured website project built from the fundamentals of HTML and CSS.', tags: ['HTML', 'CSS'], tone: 'pink' },
+  { number: '02', title: 'AI Studio Data Analytics', type: 'Data mining / analysis', description: 'Hands-on exploration of data preparation, analysis, and pattern discovery using AI Studio.', tags: ['AI Studio', 'Data mining'], tone: 'blue' },
+  { number: '03', title: 'Campus Social App', type: 'Mobile application', description: 'A Flutter and Dart concept designed to help students connect, share, and participate in campus life.', tags: ['Flutter', 'Dart'], tone: 'green' },
+  { number: '04', title: 'School Website', type: 'Web development', description: 'A structured website project built from the fundamentals of HTML and CSS.', tags: ['HTML', 'CSS'], tone: 'pink' },
 ]
 
 const skills = {
