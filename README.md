@@ -145,6 +145,14 @@ I'm strengthening my programming and software engineering fundamentals while lea
 
 ---
 
+## 👾 boot.dev profile
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/f66a6fcf-f456-4518-a0f4-09f1dfd60eff/thumbnail" >
+</p>
+
+---
+
+
 ## 📌 Portfolio
 
 This repository contains the source code for my personal portfolio website.
