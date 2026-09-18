@@ -63,7 +63,7 @@ Focused on practicing object-oriented programming, game logic, and software desi
 
 ---
 
-### 🏥 SAGIP
+### 🏥 SAGIP (NEXTGEN PH PROPOSAL)
 **Sistema para sa Agarang Gabay, Impormasyon, at Pagresponde**
 
 A public healthcare platform concept designed to make healthcare services easier to find and access.
